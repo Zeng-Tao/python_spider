@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 .idea/
-secret.py
+
 zhihu_cached/
 douban_cached/
 
